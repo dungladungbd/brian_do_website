@@ -29,7 +29,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "https://dungladungbd.github.io/brian_do_website" # the base hostname & protocol for your site
 
-github_username:  jekyll
+github_username:  dungladungbd
 
 # Customize navigation links
 nav:
